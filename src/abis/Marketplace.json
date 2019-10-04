@@ -5418,12 +5418,6 @@
       "address": "0xF3a2C46bA818169273b07Ed6DD48f067bF05C52e",
       "transactionHash": "0x195dd0dc7194f5af5d61bacedca67b9e08abfbc5fa8874909ad16b722013f717"
     },
-    "1": {
-      "events": {},
-      "links": {},
-      "address": "0x17dD7F450767BFA265d59973B8795742BE9C56Dc",
-      "transactionHash": "0xfa6115b1d7d1656e8114b75427e5a89e5d7fba180f95558a246cc3640c4ad7b4"
-    },
     "3": {
       "events": {},
       "links": {},
